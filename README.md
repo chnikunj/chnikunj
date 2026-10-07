@@ -31,9 +31,9 @@ I'm a Computer Science student interested in building real-world applications an
 - GitHub: [@chnikunj](https://github.com/chnikunj)
 - Discord: @chnikunj
 ---
-
+<!--
 ⭐️ From [chnikunj](https://github.com/chnikunj)
-<!--## Hi there 👋
+## Hi there 👋
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chnikunj&show_icons=true&locale=en" alt="chnikunj" /></p>
 
 
