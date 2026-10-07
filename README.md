@@ -1,10 +1,10 @@
 
 # Hi, I'm Nikunj Chaudhary 👋
 
-💻 Computer Science Student 🇮🇳|🇬🇧   
+💻 Computer Science Student 🇮🇳 | 🇬🇧   
 🚀 Developer | Networking & Web Technologies Enthusiast
 
-I'm a Computer Science student interested in building real-world applications, web systems, networking infrastructure, and automation.
+I'm a Computer Science student interested in building real-world applications and automation.
 
 ### 🛠️ Tech Stack
 
