@@ -1,13 +1,16 @@
 
-# Hi, I'm Nikunj 👋
+# Hi, I'm Nikunj Chaudhary 👋
 
-💻 Computer Science Student | 🇬🇧 UK  
+💻 Computer Science Student 🇮🇳|🇬🇧   
 🚀 Developer | Networking & Web Technologies Enthusiast
 
 I'm a Computer Science student interested in building real-world applications, web systems, networking infrastructure, and automation.
 
 ### 🛠️ Tech Stack
 
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,14 +18,6 @@ I'm a Computer Science student interested in building real-world applications, w
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🚀 What I'm Working On
-
-- 🌐 Web applications & backend systems
-- 🔌 APIs and payment integrations
-- 📡 Networking & ISP infrastructure
-- 🤖 Automation with Python & Node.js
-- 📚 Learning new technologies and improving my programming skills
 
 
 ### 📊 GitHub Stats
@@ -34,7 +29,7 @@ I'm a Computer Science student interested in building real-world applications, w
 ### 📫 Connect With Me
 
 - GitHub: [@chnikunj](https://github.com/chnikunj)
-
+- Discord: @chnikunj
 ---
 
 ⭐️ From [chnikunj](https://github.com/chnikunj)
