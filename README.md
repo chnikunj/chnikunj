@@ -2,9 +2,8 @@
 # Hi, I'm Nikunj Chaudhary 👋
 
 💻 Computer Science Student 🇮🇳 | 🇬🇧   
-🚀 Developer | Networking & Web Technologies Enthusiast
 
-I'm a Computer Science student interested in building real-world applications and automation.
+I'm a Computer Science student at Queen's University Belfast, interested in building real-world applications, developing software solutions, and exploring automation and emerging technologies.
 
 ### Tech Stack
 
